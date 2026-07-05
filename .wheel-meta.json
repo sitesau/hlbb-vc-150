@@ -1,0 +1,17 @@
+{
+  "wheel_id": 90,
+  "slug": "hlbb-vc-150",
+  "project": "home-loan-broker-brisbane-hv-150",
+  "parent_t1_ref": "hlbb-vc-001",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "home loan broker brisbane",
+  "intended_url": "https://home-loan-broker-brisbane-hv-150.ondigitalocean.app/",
+  "links": [
+    {
+      "target_url": "https://home-loan-broker-brisbane-guide.vercel.app",
+      "anchor": "home loan broker brisbane",
+      "rel": "follow"
+    }
+  ]
+}
